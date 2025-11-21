@@ -9,7 +9,7 @@ function App() {
   const addValue = () => {
     counter = counter + 1;
     setCounter(counter);
-    // console.log("value added", Math.random(), counter);
+    // console.log("value added", Math.random(), counter); 
   };
 
   const removeValue = () => {
